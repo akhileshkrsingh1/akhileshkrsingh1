@@ -16,24 +16,40 @@ My passion lies in the data field, and I'm dedicated to turning raw information 
 Let's make data talk! 📣
 
 📖 Education
-👥 . Education
-•Bachelor of Technology in Computer Science and Engineering 2021-25
+
+Bachelor of Technology in Computer Science and Engineering 2021-25
 Indian Institute of Information Technology, Bhagalpur
 CGPA: 8.25
+
+||
 👥💻 Programming Languages:
  : C/C++, Python, Sql
+
+ 
 Databases: SQL Server .
 Object-oriented programming (OOP)
 python
 Object-oriented programming (OOP)
+
+||
 Data Analyst: Get Data, Data Preparation, Data Modeling, Data Visuallization, Data Reporting.
+
+||
 Data Scientist: NumPy, ScikitLearn, NLTK, Matplotlib, Seaborn, Pandas, langchain, Machine Learning.
+
+||
 Areas of Interest: , software development ,Data Science, Data Analysis, Deep Learning, GenAI
+
+||
 Soft Skills: Problem Solving, Self-learning, Presentation, Adaptability
+
+||
 Relevent Coursework: Machine Learning, Linux, Data Structures & Algorithms, Operating Systems, Object Oriented
 Programming, Database Management System.
+||
 cloud:azure cloud
 
+||
 🧰 Tools:
 Power BI.
 Excel.
