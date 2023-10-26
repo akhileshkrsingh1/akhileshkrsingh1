@@ -1,6 +1,6 @@
 👋 Hello there, I'm Akhilesh Kumar Singh
 
-🚀 Aspiring Data Scientist | 📊 Tableau Enthusiast
+🚀 Aspiring Data Scientist | 📊 Software Engineer(SDE)
 
 🌱 I'm on a journey to explore the data universe and extract valuable insights from it. Currently, my focus is on mastering Tableau to create captivating data visualizations.
 
