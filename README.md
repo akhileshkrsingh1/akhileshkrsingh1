@@ -1,6 +1,6 @@
 👋 Hello there, I'm Akhilesh Kumar Singh
 
-🚀 Aspiring Data Scientist | 📊 Software Engineer(SDE) , Data Analyst
+🚀 Aspiring GenAI |Data Scientist | 📊 Software Engineer(SDE) , Data Analyst
 
 🌱 I'm on a journey to explore the data universe and extract valuable insights from it. Currently, my focus is on mastering DSA ,Problem solving skills and analtical c to create captivating data visualizations.
 
